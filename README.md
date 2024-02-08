@@ -1,4 +1,4 @@
-### Olá!! Prazer, Amanda 👋
+### Olá!! Prazer, sou Amanda 👋
 
 - 🔭 Estou trabalhando em um projeto de um jogo web.
 - 🌱 Ultimamente estou estudando bastante Python.
